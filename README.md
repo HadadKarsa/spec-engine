@@ -5,7 +5,8 @@ AI-powered software architect that transforms your app ideas into production-rea
 ## Features
 
 - **Adaptive Interview** — AI asks targeted questions to understand your project deeply
-- **6 Spec Documents** — PRD, Architecture, Database, API, Task Checklist, Project Memory
+- **7 Spec Documents** — PRD, Architecture, Database, API, Task Checklist, Project Memory, and UI Wireframes
+- **Visual Diagrams & Interactive Wireframes** — Live Mermaid diagrams (Architecture & ERD) + standalone interactive HTML/Tailwind sandbox preview
 - **Multi-Provider** — OpenAI, Anthropic, Gemini, Groq, OpenRouter, Ollama (local), and Custom (OpenAI-compatible)
 - **BYOK & Custom Endpoint** — Bring Your Own Key, connect to DeepSeek, vLLM, LM Studio, Together AI, or any custom endpoint/reverse proxy
 - **Streaming** — Real-time spec generation with live preview
@@ -45,6 +46,7 @@ Open [http://localhost:3000](http://localhost:3000)
 | `04_API_SPECS.md` | REST/GraphQL endpoints, auth, request/response contracts |
 | `05_TASKS_CHECKLIST.md` | Step-by-step build plan optimized for AI coding agents |
 | `PROJECT_MEMORY.md` | Context file for session continuity |
+| `06_UI_WIREFRAMES.html` | Interactive multi-screen wireframe prototype with responsive preview |
 
 ## Providers
 
